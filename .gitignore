@@ -33,3 +33,9 @@ desktop.ini
 
 # Streamlit secrets (if any)
 .streamlit/secrets.toml
+
+# Environment & Local tooling
+.env
+.jarvis/
+jarvis_hud.py
+
